@@ -77,8 +77,8 @@
 ---
 
 ##  **Connect with Me**  
-📩 **Email:** [dcrdhanush@gmail.com](mailto:dcrdhanush@gmail.com)  
-🔗 **LinkedIn:** [Dhanush Chinmay R](https://www.linkedin.com/in/dhanush-chinmay-r-a97135242/)  
+📩 **Email:** [Nikshithsurendra@gmail.com](mailto:Nikshithsurendra@gmail.com)  
+🔗 **LinkedIn:** [Nikshith Surendra](www.linkedin.com/in/nikshith-910q)  
 
 ---
 
