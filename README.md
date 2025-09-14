@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(to right, #f7b733, #fc4a1a); -webkit-background-clip: text; color: transparent;">
-    Hi there! 👋 I'm Dhanush Chinmay R  
+    Hi there! 👋 I'm Nikshith Surendra  
   </span>
 </h1>
 
